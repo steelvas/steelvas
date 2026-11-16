@@ -1,38 +1,26 @@
 # Steel Rodrigues
 
-**Advogado · Mestre em Direito (UNICAP) · Graduando em Sistemas de Informação na CESAR School**
+Advogado. Atuo na consultoria preventiva e não contenciosa para empresas de tecnologia e negócios que dependem de produtos digitais. Sou mestre em Direito pela UNICAP e curso Sistemas de Informação na CESAR School.
 
-> Uma linha de código pode executar uma escolha humana com perfeição e ainda assim exigir contenção, justificativa ou revisão.
+Trabalho com Direito Digital, LGPD e governança de IA. Antes de propor um protocolo, acompanho a rotina da empresa: o que ela vende, quais dados o produto usa, quem pode mudar uma decisão e o que fica registrado quando algo dá errado. Com produto e engenharia, defino como testar o combinado e quando revisar o protocolo. Uma linha de código pode executar uma escolha humana com perfeição e ainda assim exigir contenção, justificativa ou revisão.
 
-Minha advocacia é **consultiva e não contenciosa**, voltada a empresas de tecnologia e a negócios que dependem de produtos digitais. O trabalho começa antes do conflito: compreender o que a empresa vende, como o sistema funciona, quais dados circulam e quem responde pelas decisões. Prevenir um problema costuma ser mais previsível do que depender da duração e do resultado de um processo judicial — sem excluir o contencioso quando ele for necessário.
+## Estudos para começar
 
-Não substituo a engenharia. Trabalho com quem desenvolve e gere o produto para transformar riscos jurídicos em requisitos, protocolos e testes verificáveis. A pergunta não é só “o contrato diz isso?”, mas também **“o sistema realmente faz isso?”**
+- [Interesse legítimo na prática](https://github.com/steelvas/interesse-legitimo-na-pratica): o contrato prevê um fluxo de dados. O que a integração realmente envia?
+- [Prova digital do requerimento](https://github.com/steelvas/prova-digital-do-requerimento): o recibo confirma que todos os anexos chegaram?
+- [CRUD, LGPD e direitos da personalidade](https://github.com/steelvas/crud-lgpd-direitos-da-personalidade): quem pode consultar, corrigir ou excluir um cadastro?
 
-## Habilidades híbridas, aplicadas a problemas reais
+<details>
+<summary>Outros estudos</summary>
 
-- 📊 **Dados e jurimetria:** uso de Python para estruturar exemplos e investigar como dados podem afetar decisões. SQL e Pandas fazem parte da trilha de aprofundamento, não de uma alegação de domínio já demonstrado.
-- ⚙️ **Legal Ops e automação:** desenho de protocolos, fluxos de revisão, evidências e responsabilidades entre cliente e fornecedor. Integrações por APIs e ferramentas de automação estão no horizonte de aprendizagem.
-- 🤖 **IA e governança:** análise de finalidade, supervisão humana, qualidade de saídas e testes de sistemas. LLMs são ferramentas; não substituem avaliação jurídica nem validação do produto.
-- 🛡️ **Proteção de dados e prova:** retenção, exclusão, backups, logs e auditoria da cadeia de fornecedores.
-- 💻 **Programação:** Python nos estudos publicados; C++ em desenvolvimento na formação em Sistemas de Informação.
+**IA e decisões:** [IA clínica e privacidade](https://github.com/steelvas/ia-saude-privacidade) · [IA no recrutamento](https://github.com/steelvas/ia-recrutamento) · [LGPD e crédito](https://github.com/steelvas/LGPD) · [Discriminação por CEP](https://github.com/steelvas/discriminacao-algoritmica-cep)
 
-## Estudos com código e consequência jurídica
+**Dados e fornecedores:** [Exclusão de dados](https://github.com/steelvas/exclusao-de-dados) · [Dados para treinar IA](https://github.com/steelvas/dados-para-treinar-ia) · [IA generativa e documentos empresariais](https://github.com/steelvas/ia-generativa-dados-da-empresa)
 
-| Tema | Pergunta central |
-| --- | --- |
-| [IA clínica e privacidade](https://github.com/steelvas/ia-saude-privacidade) | O filtro realmente protege o paciente? |
-| [IA no recrutamento](https://github.com/steelvas/ia-recrutamento) | O clique humano permite decidir ou apenas confirmar? |
-| [Exclusão de dados](https://github.com/steelvas/exclusao-de-dados) | Apagar da tela apaga também backups e cópias? |
-| [Dados para treinar IA](https://github.com/steelvas/dados-para-treinar-ia) | O fornecedor pode usar dados do cliente para outra finalidade? |
-| [LGPD e crédito](https://github.com/steelvas/LGPD) | Uma regra de negócio pode reproduzir discriminação? |
-| [Discriminação por CEP](https://github.com/steelvas/discriminacao-algoritmica-cep) | Um critério territorial pode excluir pessoas indevidamente? |
-| [IA generativa e documentos empresariais](https://github.com/steelvas/ia-generativa-dados-da-empresa) | O que pode sair da empresa e chegar ao fornecedor? |
-| [Incidente e evidências](https://github.com/steelvas/incidente-de-dados-e-evidencias) | Como conter, registrar e avaliar a comunicação de um incidente? |
-| [Defesa digital](https://github.com/steelvas/defesa-digital-sem-contra-ataque) | Até onde a empresa pode reagir a um ataque? |
-| [Dados e mensagens eleitorais](https://github.com/steelvas/eleicoes-dados-mensagens) | A base de clientes pode virar lista de campanha? |
-| [IA em conteúdo eleitoral](https://github.com/steelvas/eleicoes-ia-conteudo) | Rotular um deepfake torna sua publicação lícita? |
-| [Impulsionamento eleitoral](https://github.com/steelvas/eleicoes-impulsionamento) | Quem pode contratar alcance pago e sob quais limites? |
+**Segurança e eleições digitais:** [Incidente e evidências](https://github.com/steelvas/incidente-de-dados-e-evidencias) · [Defesa digital](https://github.com/steelvas/defesa-digital-sem-contra-ataque) · [Dados e mensagens eleitorais](https://github.com/steelvas/eleicoes-dados-mensagens) · [IA em conteúdo eleitoral](https://github.com/steelvas/eleicoes-ia-conteudo) · [Impulsionamento eleitoral](https://github.com/steelvas/eleicoes-impulsionamento)
 
-**Minha tese de trabalho:** se a cláusula promete uma coisa e o sistema faz outra, o risco mora no intervalo. O advogado que acompanha a empresa precisa conhecer ambos.
+</details>
 
-*Exemplos didáticos com dados fictícios; não são software de produção nem aconselhamento para um caso concreto.*
+Uso Python nos exemplos didáticos, com dados fictícios. Estudo C++, SQL e Pandas. Os exemplos não são software de produção nem aconselhamento para um caso concreto.
+
+[LinkedIn](https://www.linkedin.com/in/steelvas/)
