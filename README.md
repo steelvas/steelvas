@@ -1,4 +1,4 @@
-# Steel Rodrigues
+# Steel Vas
 
 Advogado. Atuo na consultoria preventiva e não contenciosa para empresas de tecnologia e negócios que dependem de produtos digitais. Sou mestre em Direito pela UNICAP e curso Sistemas de Informação na CESAR School.
 
